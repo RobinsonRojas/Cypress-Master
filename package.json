@@ -1,0 +1,22 @@
+{
+  "name": "cypress-master",
+  "version": "1.0.0",
+  "description": "Curso de automatizacion Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinsonRojas/Cypress-Master.git"
+  },
+  "author": "Robinson Arley Rojas Novoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinsonRojas/Cypress-Master/issues"
+  },
+  "homepage": "https://github.com/RobinsonRojas/Cypress-Master#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
